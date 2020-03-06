@@ -1,0 +1,74 @@
+quais são os principais fatos?
+quem foi o protagonista?
+qual é o 'timestamp' de cada evento?
+qual é a respectiva inovação promovida?
+
+
+tema: história da ciência
+
+timestamp: Séc. XV - Séc XVI
+protagonista: Leonardo da Vinci
+
+
+inovação promovida: precursor da aviação e da balística, desenvolvimento de ideias fundamentais a ótica, anatomia, engenharia civil e hidrodinâmica.
+
+desafios encontrados: modelo político vigente na época restringia o movimento científico, viveu em um tempo aonde seu conhecimento estava muito além do conhecimento dos demais
+=====================================================================
+timestamp: Séc. XV - Séc. XVI
+
+protagonista: Galileu Galilei
+
+inovação promovida: estudos da astronomia, descoberta de saturno, defendeu a Tese de Nicolau Copérnico(negação do geocentrismo)
+
+desafios encontrados: perseguido, processado e obrigado a negar suas descobertas/ideias públicamente
+
+=====================================================================
+timestamp: Séc VII
+
+protagonista: Isaac Newton
+
+inovação promovida: Elaboração da teoria da gravitação universal, formulação da teoria de atração dos corpos e decomposição da luz esta que permitiu o desenvolvimento de um novo tipo de microscópio fundamentada em princípios da ótica, ainda fundamentou as Leis de Newton que são princípios relacionados ao movimentos dos corpos
+
+desafios encontrados:  
+====================================================================
+timestamp: Séc. XVIII
+
+protagonista: Lavoisier
+
+inovação promovida: Princípio da Conservação da matéria, composição da água, importância do oxigênio para o processo de combustão, Lei da conservação das massas para uma reação química
+
+desafios encontrados:
+=================================================================
+timestamp: Séc. XIX
+
+protagonista: Charles Darwin
+
+inovação promovida: Desenvolvimento das ideias evolucionistas,
+
+desafios encontrados: Confronto com o criacionismo bíblico, proibição de seu ensino em algumas instituições.
+====================================================================
+timestamp: Séc. XIX
+
+protagonista: Gregor Mendel
+
+inovação promovida: desenvolvimento das leis de mendel que se tornaram base para todo o estudo de genética
+
+desafios encontrados: 
+======================================================================
+timestamp: Séc. XIX
+
+protagonista: Louis Pasteur
+
+inovação promovida: desenvolveu estudos fundamentais para estudos da bioquímica respondendo questões sobre o ciclo de vida na natureza, estudos sobre fermentações, desenvolvimento da vacina contra raiva e cólera das galinhas
+ 
+desafios encontrados:
+======================================================================
+timestamp: Séc. XIX 
+
+protagonista: Tomas Edson
+
+inovação promovida: Inventou a lâmpada, aperfeiçoou várias inovações, desenvolvimento um aparelho registrador de números e letras para menságens telegráficas (telégrafo), revolucionando a economia global e servindo como ponto de ignição para o desenvolvimento dos meios de comunicação. Invenção do cinematógrafo
+
+desafios encontrados:
+======================================================================
+
