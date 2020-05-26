@@ -1,0 +1,19 @@
+medicina 5P
+	preditiva
+	preventiva
+	personalizada
+	participativa
+	pertinente
+
+desafios
+	Volume de Informações
+	Assimetria de Informações
+	Variedade de formatos
+	questões de privacidade
+	falta de qualidade
+	ausência de informações
+
+Jornada do Paciente
+
+
+	

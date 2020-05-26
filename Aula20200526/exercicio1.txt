@@ -1,0 +1,28 @@
+1. O que caracterizam dados estruturados? o que caracterizam dados nao-estruturados?
+
+- O que são Dados Estruturados
+	São os dados que estão armazenados dentro de uma estruturada que podemos entender “a olho nu”, pois estão armazenados de forma organizada.
+	Esta organização é geralmente feita por colunas e linhas (parecidos com as planilhas do Excel), mas pode variar de acordo com a fonte de dados.
+- O que são dados não estruturados
+	O que são Dados Não Estruturados
+	Quando não conseguimos identificar uma organização clara dos dados lá armazenados, concluímos que esta é um dado não estruturado. 
+	Como identificar as todas as palavras de um documento texto (bloco de notas, Word, emails, etc) e relacioná-las um contexto?
+	
+
+2. a apresentacao do Marcelo baseou em dados estruturados ou nao estruturados?
+	nos dois, porém em maior quantidade são não estruturados
+
+3. quais sao os desafios da aplicacao de Mineracao de dados (IA) na saúde?
+	Volume de Informações
+	Assimetria de Informações
+	Variedade de formatos
+	questões de privacidade
+	falta de qualidade
+	ausência de informações
+
+4. quais sao aplicacoes mostradas durante a apresentacao do Marcelo
+	upflux
+	
+
+5. do que vc mais gostou da apresentacao do Marcelo
+	a forma como ele trabalha com a grande quantidade de dados

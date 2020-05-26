@@ -1,0 +1,11 @@
+1. Por que o computador representa os dados na base 2?
+	Todas as informações e tudo o que o seu computador está fazendo neste exato momento 
+	está sendo processado em dados compostos apenas de 0 e 1. Isso é o Sistema Binário.
+
+2. Como transformar um numero na base 10 para a base 2? 
+	dividindo o numero por 2 pege o resto da divisão (os 0 e 1) e escreva a sequência obtida 
+
+
+3. Como transformar um numero na base 2 para a base 10? 
+Qual é o passo a passo de forma ilustrada a partor de um exemplo..
+	pegue a posição, partido da direita para a esquerda e começando na posição 0, dos dígitos 1 na forma binária, elevando 2 à posição do digito 1 e somando os resultados	
