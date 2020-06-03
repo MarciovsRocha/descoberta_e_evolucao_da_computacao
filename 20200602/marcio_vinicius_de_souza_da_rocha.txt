@@ -1,0 +1,34 @@
+qual foi a ressalva feita em relacao ao antivirus?
+	Muitas pessoas acham que os antivírus causam perda de poder de processamento
+	porém com a evolução dos computadores a perda de processamento causada pelos
+	antivírus é quase insignificante.
+	É sempre bom ter um antivírus forte e atualizado rodando em sua máquina
+
+O que é spam 
+	O termo Spam pode ser um acrónimo derivado da expressão em inglês 
+	"Sending and Posting Advertisement in Mass", traduzido em português 
+	"Enviar e Postar Publicidade em Massa", ou também Stupid Pointless 
+	Annoying Messages que significa mensagem ridícula, sem propósito, e irritante.
+
+O que é phisinhg?
+	Phishing é a tentativa fraudulenta de obter informações confidenciais como nomes 
+	de usuário, senhas e detalhes de cartão de crédito, por meio de disfarce de 
+	entidade confiável em uma comunicação eletrônica.	
+
+O que é bot? maquina zoombie ?
+	Computador zumbi é um termo empregado para classificar computadores utilizados para 
+	envio de spam e ataque a sites, sem que o dono do computador saiba de tal atividade.
+	Para que isso aconteça, o invasor precisa instalar um programa no computador-alvo, 
+	normalmente através de e-mails, redes ponto-a-ponto (peer-to-peer), ou mesmo através de 
+	sites com links onde o invasor disfarça o programa para que o usuário não saiba de que se trata.
+	Após a instalação do programa, o invasor passa a utilizar esse computador (juntamente com todos 
+	os outros computadores infectados) para enviar e-mails em série (spam) com diversas finalidades, 
+	ou mesmo para atacar sites, com intuito de criar danos ao site ou deixá-lo lento. 
+
+
+IoT são inseguros? Por que ? 
+	Acessórios que possuem comunicação via internet são falhas na segurança da rede pois quando estes não
+	possuem a devida configuração de seguraça acabam sendo um ponto de acesso externo 
+
+cvedetails.com (qual é a importancia em consultar este site)? 
+	Ter conhecimento das falhas dos Sistemas e Aplicativos que estão sendo utilizados
